@@ -19,17 +19,22 @@ Este é um projeto desenvolvido como parte do componente "Programação de Aplic
 ## Funcionalidades
 
 - Barra de pesquisa para encontrar Pokémon por nome.
-- Visualização de uma lista de Pokémon na tela principal.
+- Visualização de uma lista de 50 Pokémons na tela principal.
 - Ao clicar em um Pokémon, é exibido um modal com informações detalhadas.
 
 ## Screenshots
 
 - MENU INICIAL:
 
-  ![image](https://github.com/trabalhos-etec/pokedex-3a-etec-taboao/assets/165843427/1dd77a35-0d08-4c3b-89e1-197c14aa5292)
+  <p align="center">
+    <img src="https://github.com/trabalhos-etec/pokedex-3a-etec-taboao/assets/165843427/1dd77a35-0d08-4c3b-89e1-197c14aa5292" width="300">
+  </p>
 
-
-*Insira aqui os screenshots do seu aplicativo.*
+- PESQUISANDO POKÉMONS E AS INFORMAÇÕES QUE APARECE:
+  
+  <p align="center">
+    <img src="https://github.com/trabalhos-etec/pokedex-3a-etec-taboao/assets/165843427/f51e8354-25c7-41fa-a1c6-8e44228ecba2" width="300">
+  </p>
 
 ## Como usar
 

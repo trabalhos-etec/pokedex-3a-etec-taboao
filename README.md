@@ -24,6 +24,11 @@ Este é um projeto desenvolvido como parte do componente "Programação de Aplic
 
 ## Screenshots
 
+- MENU INICIAL:
+
+  ![image](https://github.com/trabalhos-etec/pokedex-3a-etec-taboao/assets/165843427/1dd77a35-0d08-4c3b-89e1-197c14aa5292)
+
+
 *Insira aqui os screenshots do seu aplicativo.*
 
 ## Como usar
